@@ -2,11 +2,8 @@ theme: minima
 title: Wooooooooooooooooooooooow
 author: FcoCarreto
 email: l181061027@mulege.tecnm.mx
-description: El Sol es una estrella, es decir, un cuerpo celeste que brilla con luz propia, 
-compuesto de hidrógeno y helio a enormes temperaturas en estado de plasma. 
-Es la estrella mas cercana a La Tierra y de la que depende toda la vida en ella. 
-Concentrada en el Sol encontramos el 99,85% de toda la masa del Sistema Solar. # this means to ignore newlines until "baseurl:"
+description: El Sol es una estrella, es decir, un cuerpo celeste que brilla con luz propia. # this means to ignore newlines until "baseurl:"
 # social links
-twitter_username: si # DO NOT include the @ character, or else the build will fail!
+twitter_username: FcoCarreto # DO NOT include the @ character, or else the build will fail!
 github_username:  FcoCarreto # DO NOT include the @ character, or else the build will fail!
 show_excerpts: true # set to false to remove excerpts on the homepage
