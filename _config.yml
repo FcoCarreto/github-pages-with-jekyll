@@ -2,13 +2,10 @@ theme: minima
 title: Wooooooooooooooooooooooow
 author: FcoCarreto
 email: l181061027@mulege.tecnm.mx
-description: > # this means to ignore newlines until "baseurl:"
-El Sol Es una esfera casi perfecta de plasma, con un movimiento convectivo interno que genera un campo magnético a través de un proceso de dinamo. 
+description: El Sol Es una esfera casi perfecta de plasma, con un movimiento convectivo interno que genera un campo magnético a través de un proceso de dinamo. 
 Cerca de tres cuartas partes de la masa del Sol constan de hidrógeno; el resto es principalmente helio, 
-con cantidades mucho más pequeñas de elementos, incluyendo el oxígeno, carbono, neón y hierro.
-
+con cantidades mucho más pequeñas de elementos, incluyendo el oxígeno, carbono, neón y hierro. > # this means to ignore newlines until "baseurl:"
 # social links
 twitter_username: si # DO NOT include the @ character, or else the build will fail!
 github_username:  FcoCarreto # DO NOT include the @ character, or else the build will fail!
-
 show_excerpts: true # set to false to remove excerpts on the homepage
